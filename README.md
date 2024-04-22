@@ -21,10 +21,13 @@ human preferences. Using advanced methods, CLHA surpasses other algorithms, show
 in terms of reward model scores, automatic evaluations, and human assessments on the widely used “Helpful and
 Harmless” dataset. 
 
-## ✨ The pipeline of PRO
+## ✨ The pipeline of CLHA
 <div align="center"><img src="./resources/pipeline.png" style="zoom:100%"></div>
 
-## 🤝 Dataset
+## 🤝 Acknowledgements
+This project was inspired by [PRO](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/PRO) by [DAMO-ConvAI]。We appreciate the original work done by the author. 
+
+## 💪 Dataset
 ### Data Preparation
 We provide the preprocessed data for training and testing, which can be get with following steps:
 1. Download [data.zip](https://ylab-mobile-prod.oss-cn-beijing.aliyuncs.com/yueli.ybw/data.zip) and unzip it.
@@ -64,7 +67,7 @@ cd eval_hh
 ```
 > **Note:** Before running, the ```id_of_exp``` and corresponding ranking length (during training) in ```run_infer_main_dist.sh``` have to be specified.
 
-## 🔓 Requirements
+## 🔓 Citation
 If this work is helpful to you, welcome to cite our paper as:
 ```
 @article{fang2024clha,
