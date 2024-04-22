@@ -25,7 +25,7 @@ Harmless” dataset.
 <div align="center"><img src="./resources/pipeline.png" style="zoom:100%"></div>
 
 ## 🤝 Acknowledgements
-This project was inspired by [PRO](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/PRO) by [DAMO-ConvAI]。We appreciate the original work done by the author. 
+This project was inspired by [PRO](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/PRO) by [DAMO-ConvAI]. We appreciate the original work done by the author. 
 
 ## 💪 Dataset
 ### Data Preparation
