@@ -22,7 +22,7 @@ in terms of reward model scores, automatic evaluations, and human assessments on
 Harmless” dataset. 
 
 ## ✨ The pipeline of PRO
-<div align="center"><img src="./resources/pipeline.jpg" style="zoom:100%"></div>
+<div align="center"><img src="./resources/pipeline.png" style="zoom:100%"></div>
 
 ## 🤝 Dataset
 ### Data Preparation
@@ -33,7 +33,7 @@ We provide the preprocessed data for training and testing, which can be get with
 Besides, we also provide the scripts for preprocessing the raw data. Please follow the steps below to prepare the data:
 1. Create a directory named ```data``` in the root directory of this project.
 2. Create a directory named ```data/raw_data``` in the ```data``` directory.
-3. Download the raw data from [*HH-RLHF*](https://github.com/anthropics/hh-rlhf) or [*Summarize From Feedback*](https://github.com/openai/summarize-from-feedback), which should be named as ```hhrlhf``` or ```summarize_from_feedback```, and put it in the ```data/raw_data``` directory.
+3. Download the raw data from [*HH-RLHF*](https://github.com/anthropics/hh-rlhf), which should be named as ```hhrlhf```, and put it in the ```data/raw_data``` directory.
 4. Run the following command to preprocess the data:
 
 ```
