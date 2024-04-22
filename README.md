@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Improving Semi-Supervised Text Classification <br> with Dual Meta-Learning</h1>
+<h1>CLHA: A Simple yet Effective Contrastive Learning Framework for Human Alignment</h1>
 
 arXiv: [Abstract](https://arxiv.org/abs/2403.16649) / [PDF](https://arxiv.org/pdf/2403.16649.pdf)
 
