@@ -24,9 +24,6 @@ Harmless” dataset.
 ## ✨ The pipeline of CLHA
 <div align="center"><img src="./resources/pipeline.png" style="zoom:100%"></div>
 
-## 🤝 Acknowledgements
-This project was inspired by [PRO](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/PRO) by [DAMO-ConvAI]. We appreciate the original work done by the author. 
-
 ## 💪 Dataset
 ### Data Preparation
 We provide the preprocessed data for training and testing, which can be get with following steps:
@@ -66,6 +63,9 @@ cd eval_hh
 ./run_infer_main_dist.sh
 ```
 > **Note:** Before running, the ```id_of_exp``` and corresponding ranking length (during training) in ```run_infer_main_dist.sh``` have to be specified.
+
+## 🤝 Acknowledgements
+This project was inspired by [PRO](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/PRO) by [DAMO-ConvAI]. We appreciate the original work done by the author. 
 
 ## 🔓 Citation
 If this work is helpful to you, welcome to cite our paper as:
