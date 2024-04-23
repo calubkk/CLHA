@@ -48,8 +48,11 @@ python step_3_get_test_data.py
 ### Train
 We provide the training scripts for training the model. For example, you can run the following commands to train the model:
 ```
+mkdir checkpoints
+mkdir logs
+#Download your reward models from https://huggingface.co/OpenAssistant/oasst-rm-2.1-pythia-1.4b-epoch-2.5 and https://huggingface.co/OpenAssistant/oasst-rm-2-pythia-6.9b-epoch-1
+mkdir rm
 cd train
-
 # Train LLMs with HH-RLHF
 ./train_hh.sh [id_of_exp] hh_train_len2 2
 ```
