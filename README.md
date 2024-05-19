@@ -68,7 +68,7 @@ cd eval_hh
 > **Note:** Before running, the ```id_of_exp``` and corresponding ranking length (during training) in ```run_infer_main_dist.sh``` have to be specified.
 
 ## 🤝 Acknowledgements
-This project was inspired by [PRO](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/PRO) by [DAMO-ConvAI]. We appreciate the original work done by the author. 
+This project was inspired by [PRO](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/PRO) [DAMO-ConvAI]. We appreciate the original work done by the author. 
 
 ## 🔓 Citation
 If this work is helpful to you, welcome to cite our paper as:
